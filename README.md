@@ -20,5 +20,5 @@ Na aula de Laboratótio de Engeharia de Software <br>
 -------
 Similares
 
-Web e Site [Hemoliga](http://hemoliga.com.br/) <br>
-App [Partiu Doar Sangue](https://play.google.com/store/apps/details?id=com.ionicframework.app190851)
+- Web e Site [Hemoliga](http://hemoliga.com.br/) <br>
+- App [Partiu Doar Sangue](https://play.google.com/store/apps/details?id=com.ionicframework.app190851)
