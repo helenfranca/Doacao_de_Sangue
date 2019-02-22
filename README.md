@@ -2,7 +2,7 @@
  ### Um serviço pró-ativo que convide a pessoa a doar sangue para o seu tipo específico
 
 ---------
-- Canvas do projeto (https://docs.google.com/drawings/d/1Jmqvl_LD88OZ8QNzajE3s6UOwYPANk9HTlujOv_FtAw/edit)
+- [Canvas do projeto](https://docs.google.com/drawings/d/1Jmqvl_LD88OZ8QNzajE3s6UOwYPANk9HTlujOv_FtAw/edit)
  
 Escopo
 
