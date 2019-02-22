@@ -17,7 +17,7 @@ A pessoa informa seus dados como nome, e-mail, telefone, cpf(talvez), tipo sangu
 Plus - Gameficação com base em pontuação
 - Para estimular a participação das pessoas poderia funcionar como um jogo. A pessoa ganharia "tuntuns" - pontos a cada doação que poderia trocar por um brinde ou cupons de desconto de parceiros. Ranking dos doadores regulares. Indicando alguém e esse alguém comparecendo a doação poderia gerar pontos para quem indicou e para o próprio doador.
 
-* Para futura possível utilização da informação<br><br>
+** Para futura possível utilização da informação<br><br>
 Seria interessante encontrarmos pesquisas feitas que nos mostrasse números em relação as pessoas que doam e as taxas nos hemocentros no Brasil.
 
 -------
