@@ -2,6 +2,8 @@
  ### Um serviço pró-ativo que convide a pessoa a doar sangue para o seu tipo específico
 
 ---------
+- Canvas do projeto (https://docs.google.com/drawings/d/1Jmqvl_LD88OZ8QNzajE3s6UOwYPANk9HTlujOv_FtAw/edit)
+ 
 Escopo
 
 A pessoa informa seus dados como nome, e-mail, telefone, cpf(talvez), tipo sanguíneo, se é doador de órgãos, se é doador de medúla óssea.  A maneira de enviar notificação de uma maneira mais abrangente será através da geolocalização, daí no caso de ela estar viajando seria possível indicá-la um banco de doação mais perto de onde ela está hospedado ou de passagem na cidade.
