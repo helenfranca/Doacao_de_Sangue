@@ -14,8 +14,8 @@ Indicando alguém e esse alguém comparecendo a doação poderia gerar pontos pa
 
 -------
 
-Na aula de Laboratótio de Engeharia de Software
- Conversamos com o professor e apresentamos a ideia. Ele nos deu alguns feedbacks.
+Na aula de Laboratótio de Engeharia de Software <br>
+ - Conversamos com o professor e apresentamos a ideia. Ele nos deu alguns feedbacks.
 
 -------
 Similares
