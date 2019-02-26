@@ -35,7 +35,7 @@ Similares e referências
 | O sistema deve permitir o reconhecimento/confirmação da doação        |         |
 | O sistema deve permitir o doador pesquisar o hemocentro mais próximo      |         |
 |  O sistema deve informar quando o doador está apto para doar        |         |
-|  O possível doador deve permitir que o sistema tenha acesso a sua localização(GPS)       |         |
+|  O possível doador deve permitir que o sistema tenha acesso a sua localização (GPS)       |         |
 |         |         |
 
 
@@ -43,7 +43,7 @@ Similares e referências
 |---------|---------|
 |  O possível doador deverá ser notificado por meio de web push notification / push notification / email.       |         |
 |   O sistema deve funcionar em plataformas web e mobile       |         |
-|   O sistema deve ser integrado com o serviço de mapas(Ex: Google Maps)      |         |
+|   O sistema deve ser integrado com o serviço de mapas (Ex: Google Maps)      |         |
 |         |         |
 
 
