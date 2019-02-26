@@ -28,33 +28,37 @@ Similares e referências
 - [Portal do governo](http://portalms.saude.gov.br/saude-de-a-z/doacao-de-sangue)
 -------
 
-####Definição do Escopo
+### Definição do Escopo
 
-Tipo de Requisitos<br>
-Funcionais:
-- O sistema deve notificar ao doador o hemocentro mais próximo para que aconteça a doação
-- O sistema deve permitir ao doador deve realizar cadastro com dados básicos como nome completo, data de nascimento, email, tipo e fator sanguíneo, peso, se já realizou alguma doação e quando foi a última vez.
-- O sistema deve permitir o cadastro do hemocentro
-- O sistema deve permitir o reconhecimento/confirmação da doação
-- O sistema deve permitir o doador pesquisar o hemocentro mais próximo
-- O sistema deve informar quando o doador está apto para doar
-- O possível doador deve permitir que o sistema tenha acesso a sua localização(GPS)
-- 
+#### Tipo de Requisitos<br>
 
-<br>Não-funcionais: <br>
-- O possível doador deverá ser notificado por meio de web push notification / push notification / email.
-- O sistema deve funcionar em plataformas web e mobile
-- O sistema deve ser integrado com o serviço de mapas(Ex: Google Maps)
-- 
+| Funcionais | Prioridades (MoSCoW)|
+|---------|---------|
+| O sistema deve notificar ao doador o hemocentro mais próximo para que aconteça a doação |         |
+| O sistema deve permitir ao doador deve realizar cadastro com dados básicos como nome completo, data de nascimento, email, tipo e fator sanguíneo, peso, se já realizou alguma doação e quando foi a última vez.|         |
+| O sistema deve permitir o cadastro do hemocentro |         |
+| O sistema deve permitir o reconhecimento/confirmação da doação        |         |
+| O sistema deve permitir o doador pesquisar o hemocentro mais próximo      |         |
+|  O sistema deve informar quando o doador está apto para doar        |         |
+|  O possível doador deve permitir que o sistema tenha acesso a sua localização(GPS)       |         |
+|         |         |
 
 
-<br>Regras de negócios:<br>
-- O doador só poderá repetir a doação a cada 60 dias para homens e 90 dias para mulher. Entretanto, recomenda-se que o homem doe até 4 vezes por ano e a mulher até 3 vezes por ano.
-- O doador deve ter no mínimo de 50kg.
-- O doador deve ter idade entre 16 e 69 anos, desde que a primeira doação tenha sido feita até 60 anos.
-- 
+| Não Funcionais | Prioridades (MoSCoW)|
+|---------|---------|
+|  O possível doador deverá ser notificado por meio de web push notification / push notification / email.       |         |
+|   O sistema deve funcionar em plataformas web e mobile       |         |
+|   O sistema deve ser integrado com o serviço de mapas(Ex: Google Maps)      |         |
+|         |         |
 
-<br><br>Prioridades: (MoSCoW)
+
+| Regras de Negócio |
+|---------|
+|O doador só poderá repetir a doação a cada 60 dias para homens e 90 dias para mulher. Entretanto, recomenda-se que o homem doe até 4 vezes por ano e a mulher até 3 vezes por ano.|
+|O doador deve ter no mínimo de 50kg.|
+|O doador deve ter idade entre 16 e 69 anos, desde que a primeira doação tenha sido feita até 60 anos.|
+|         |
+
 
 <br><br>Critérios:
 
