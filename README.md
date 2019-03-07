@@ -27,17 +27,17 @@ Similares e referências
 
 #### Tipo de Requisitos<br>
 
-| Funcionais | Prioridades (MoSCoW)|Helen|
-|---------|---------|---------|
-| O sistema deve notificar ao doador o hemocentro mais próximo para a doação |         |    M     |
-| O sistema deve permitir ao doador deve realizar cadastro com dados básicos como nome completo, data de nascimento, email, tipo e fator sanguíneo, peso, se já realizou alguma doação e quando foi a última vez.|         |    M     |
-| O sistema deve permitir o cadastro do hemocentro |         |    M     |
-| O sistema deve permitir o reconhecimento/confirmação da doação        |         |     S    |
-| O sistema deve permitir o doador pesquisar o hemocentro mais próximo      |         |    C    |
-| O sistema deve informar quando o doador está apto para doar |         |    S     |
-| O possível doador deve permitir que o sistema tenha acesso a sua localização (GPS) |         |     M    |
-| O sistema deve contabilizar pontos para o doador a cada nova doação |         |    W    |
-| O sistema deve permitir ao usuário montar grupos de doadores |         |    W    |
+| Funcionais | Prioridades (MoSCoW)|Helen|Guilherme|
+|---------|---------|---------|---------|
+| O sistema deve notificar ao doador o hemocentro mais próximo para a doação |         |    M     |    MUST   |
+| O sistema deve permitir ao doador realizar um breve cadastro com dados básicos como nome completo, data de nascimento, email, tipo e fator sanguíneo, peso.|         |    M     |    MUST   |
+| O sistema deve permitir o cadastro do hemocentro |         |    M     |    MUST   |
+| O sistema deve permitir o reconhecimento/confirmação da doação        |         |     S    |   COULD   |
+| O sistema deve permitir o doador pesquisar o hemocentro mais próximo      |         |    C    |   MUST   |
+| O sistema deve informar quando o doador está apto para doar |         |    S     |  SHOULD  |
+| O possível doador deve permitir que o sistema tenha acesso a sua localização (GPS) |         |     M    |  WOULD  |
+| O sistema deve contabilizar pontos para o doador a cada nova doação |         |    W    |  WOULD   |
+| O sistema deve permitir ao usuário montar grupos de doadores |         |    W    |  COULD  |
 |         |         |         |
 
 | Não Funcionais | Prioridades (MoSCoW)|
