@@ -6,7 +6,7 @@
 
  Protótipo
 - [Balsamiq](https://balsamiq.cloud/sqxey63/p6u0yd2)
-- [PDF] Cadastro
+- [PDF] [Cadastro](https://github.com/helenfranca/Doacao_de_Sangue/blob/master/Tuntum%20-%20Cadastro.pdf)
 
 
 Rascunho
