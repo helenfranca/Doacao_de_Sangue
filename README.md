@@ -6,6 +6,7 @@
 
  Protótipo
 - [Balsamiq](https://balsamiq.cloud/sqxey63/p6u0yd2)
+- [PDF] Cadastro
 
 
 Rascunho
