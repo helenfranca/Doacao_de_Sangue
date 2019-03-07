@@ -3,7 +3,11 @@
 
 ---------
 - [Canvas do projeto](https://docs.google.com/drawings/d/1Jmqvl_LD88OZ8QNzajE3s6UOwYPANk9HTlujOv_FtAw/edit)
- 
+
+ Protótipo
+- [Balsamiq](https://balsamiq.cloud/sqxey63/p6u0yd2)
+
+
 Rascunho
 
 A pessoa informa seus dados como nome, e-mail, tipo e fator sanguíneo, se já realizou alguma doação e quando foi a última vez. Na parte do Hemocentro alguém será responsável por atualizar as informações no sistema sobre o atual nível de abastecimento do banco de sangue, sendo assim a pessoa terá que fazer um cadastro com as informações relevantes. Informando o tipo sanguíneo e com informações do banco de sangue do Hemocentro o sistema fará enviará uma notificação ao possível doador. Essa notificação será através da geolocalização, que ao localizar a pessoa verificará o Hemocentro mais próximo a ela, daí no caso de estar viajando seria possível indicá-la um banco de doação mais perto de onde está hospedada ou de passagem na cidade.
@@ -23,39 +27,4 @@ Similares e referências
 - [Portal do governo](http://portalms.saude.gov.br/saude-de-a-z/doacao-de-sangue)
 -------
 
-### Definição do Escopo
-
-#### Tipo de Requisitos<br>
-
-| Funcionais | Prioridades (MoSCoW)|Helen|Guilherme|
-|---------|---------|---------|---------|
-| O sistema deve notificar ao doador o hemocentro mais próximo para a doação |         |    M     |    MUST   |
-| O sistema deve permitir ao doador realizar um breve cadastro com dados básicos como nome completo, data de nascimento, email, tipo e fator sanguíneo, peso.|         |    M     |    MUST   |
-| O sistema deve permitir o cadastro do hemocentro |         |    M     |    MUST   |
-| O sistema deve permitir o reconhecimento/confirmação da doação        |         |     S    |   COULD   |
-| O sistema deve permitir o doador pesquisar o hemocentro mais próximo      |         |    C    |   MUST   |
-| O sistema deve informar quando o doador está apto para doar |         |    S     |  SHOULD  |
-| O possível doador deve permitir que o sistema tenha acesso a sua localização (GPS) |         |     M    |  WOULD  |
-| O sistema deve contabilizar pontos para o doador a cada nova doação |         |    W    |  WOULD   |
-| O sistema deve permitir ao usuário montar grupos de doadores |         |    W    |  COULD  |
-|         |         |         |
-
-| Não Funcionais | Prioridades (MoSCoW)|
-|---------|---------|
-|  O possível doador deverá ser notificado por meio de web push notification / push notification / email.       |         |
-|   O sistema deve funcionar em plataformas web e mobile       |         |
-|   O sistema deve ser integrado com o serviço de mapas (Ex: Google Maps)      |         |
-|         |         |
-
-
-| Regras de Negócio |
-|---------|
-|O doador só poderá repetir a doação a cada 60 dias para homens e 90 dias para mulher. Entretanto, recomenda-se que o homem doe até 4 vezes por ano e a mulher até 3 vezes por ano.|
-|O doador deve ter no mínimo de 50kg.|
-|O doador deve ter idade entre 16 e 69 anos, desde que a primeira doação tenha sido feita até 60 anos.|
-|         |
-
-
-<br><br>Critérios: 
-(É claro? É objetivo? É testável? Está padronizado? Não é ambíguo? Não é conflitante? É inucamente identificado?)
 
